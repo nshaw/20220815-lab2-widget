@@ -1,0 +1,5 @@
+code: ns-example-bundle
+description: This is an example of an Entando bundle
+components:
+  widgets:
+    - widgets/ns-lab2-example.yaml
