@@ -1,0 +1,6 @@
+code: ns-lab2-example-widget
+titles:
+  en: Example Widget
+  it: Widget d'esempio
+group: free
+customUi: <h2>Hi from Nathan's Example Widget</h2>
